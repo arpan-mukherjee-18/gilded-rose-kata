@@ -2,8 +2,6 @@
 
 ## Introduction
 
-![world_of_warcraft.png](world_of_warcraft.png) ![guilded_rose_inn.png](guilded_rose_inn.png)
-
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
 prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods.
 Unfortunately, our goods are constantly degrading in `Quality` as they approach their sell by date.
@@ -20,14 +18,12 @@ Pretty simple, right? Well this is where it gets interesting:
 
 - Once the sell by date has passed, `Quality` degrades twice as fast
 - The `Quality` of an item is never negative
-- __"Aged Brie"__ actually increases in `Quality` the older it gets <img alt="brie.png" height="600" src="brie.png" width="1000"/>
+- __"Aged Brie"__ actually increases in `Quality` the older it gets
 - The `Quality` of an item is never more than `50`
-- __"Sulfuras"__, being a legendary item, never has to be sold or decreases in `Quality` ![hand_of_sulfurus.png](hand_of_sulfurus.png)
+- __"Sulfuras"__, being a legendary item, never has to be sold or decreases in `Quality`
 - __"Backstage passes"__, like aged brie, increases in `Quality` as its `SellIn` value approaches;
     - `Quality` increases by `2` when there are `10` days or less and by `3` when there are `5` days or less but
     - `Quality` drops to `0` after the concert
-
-  <img alt="concert.png" height="800" src="concert.png" width="1200"/>
 
 ## The Task
 
